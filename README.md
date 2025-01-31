@@ -1,4 +1,6 @@
-# LightNap
+# LightNapNx
+
+This is a fork of [LightNap](https://github.com/SharpLogic/LightNap) that I will be adjusting to use [nx](https://nx.dev/) and [nx-dotnet](https://www.nx-dotnet.com/) as development tools. 
 
 LightNap (**light**weight .**N**ET/**A**ngular/**P**rimeNG) is a full stack starter kit designed to provide a boost to Single Page Applications (SPA). It includes built-in support for ASP.NET Identity, JWT token management, and administrative features for managing identity, offering a solid foundation to be extended for any application scenario.
 
